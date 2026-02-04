@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Fluxrix
+# 👋 Hey, I'm FluxrixDev
 
 🚀 JavaScript / TypeScript Developer  
 ⚡ Building scalable & performance-driven applications  
